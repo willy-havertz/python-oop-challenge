@@ -15,6 +15,10 @@ A simple Python project that demonstrates basic Object‑Oriented Programming by
    git clone https://github.com/willy-havertz/python-oop-challenge.git
    cd python-oop-challenge
 
+2. **Running**
+  Run main.py in your terminal
+
+  
 ---
 
 ## 📸 Screenshot 
